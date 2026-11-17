@@ -1,5 +1,5 @@
 # RecoverAI ⚡
-### Intelligent Decisions. Smarter Payment Recovery.
+### Intelligent Decisions. Smarter Payment Recovery. (Prototype)
 
 RecoverAI is an AI-assisted fintech platform designed to improve digital payment security, transaction monitoring, reconciliation, and payment recovery.
 
